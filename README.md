@@ -1,1 +1,1 @@
-###Awentale is a game development studio dedicated to creating immersive worlds through storytelling, systems design, and interactive gameplay. We build narrative-driven experiences where players don’t just play a story—they live inside it.
+### Awentale is a game development studio dedicated to creating immersive worlds through storytelling, systems design, and interactive gameplay. We build narrative-driven experiences where players don’t just play a story—they live inside it.
